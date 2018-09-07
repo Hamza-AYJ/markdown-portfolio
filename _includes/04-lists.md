@@ -1,3 +1,3 @@
--[]memes
--[]hello
--[]thanos car
+- memes
+- hello
+- thanos car
